@@ -1,0 +1,7 @@
+{"namespace": "com.example.kafkademo.schema",
+ "type": "record",
+ "name": "DataRecordAvro",
+ "fields": [
+     {"name": "count", "type": "long"}
+ ]
+}
